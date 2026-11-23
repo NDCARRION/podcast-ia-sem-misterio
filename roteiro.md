@@ -27,3 +27,4 @@ O futuro do aprendizado não depende apenas de ter acesso à tecnologia, mas de 
 Eu espero você no próximo episódio do IA Sem Mistério.
 
 Até lá!
+**Roteiro do podcast criado para o desafio DIO.**
